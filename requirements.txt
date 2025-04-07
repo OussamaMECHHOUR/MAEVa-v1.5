@@ -1,0 +1,8 @@
+requests
+lxml
+torch
+transformers==4.50.3
+tqdm
+pandas
+scikit-learn
+openpyxl

@@ -1,0 +1,81 @@
+crop
+agronomy
+crop science
+agriculture
+soil
+farming
+plant biology
+Plant height
+Aboveground biomass
+Dry biomass
+Fresh biomass
+Aerial biomass
+Ground cover
+Crop yield
+Radiation use efficiency
+Growth rate
+Maximum plant height
+Canopy height
+Soil pH
+Soil carbon content
+Soil organic matter
+Cation exchange capacity (CEC)
+Exchangeable calcium
+Exchangeable potassium
+Exchangeable magnesium
+Exchangeable sodium
+Nitrogen content in soil
+Phosphorus content in soil
+Potassium application rate
+Fertilization rate
+SPAD chlorophyll index
+Leaf area index (LAI)
+Nitrogen content in leaves
+Phosphorus content in leaves
+Potassium content in leaves
+Soluble sugar concentration in leaves
+Dry leaf biomass
+Fresh leaf biomass
+Sugar content in stem
+Stem dry biomass
+Stem fresh biomass
+Fibre content in stem
+Purity of stem juice
+Sucrose content in harvested cane
+Sugarcane yield
+Cane biomass
+Grain yield
+Fruit biomass
+Percentage of bagasse
+Biomethane potential
+Digestibility of cell wall
+Brix value
+Cellulose concentration
+Lignin concentration
+Days to emergence
+Days to flowering
+Days to fructification
+Thermal time to emergence
+Thermal time to flowering
+Thermal time to fructification
+Leaf appearance rate
+Maximum growth rate
+Rate of increase in height
+Weed coverage
+Weed dry mass
+Cover crop biomass
+Weed control efficiency
+Herbicide application frequency
+Service plant coverage
+Cover plant growth in height
+Cover plant leaf appearance rate
+Average temperature
+Light radiation
+Solar radiation use efficiency
+Humidity in aboveground biomass
+Apex height
+Height of last visible ligule
+apex heights
+foliar biomass
+stem juice yield
+dry matter
