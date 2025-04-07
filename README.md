@@ -184,7 +184,7 @@ These pretrained models are made available for **scientific research purposes**.
 
 ### 🔁 How to Reproduce Our Best Results
 
-Before running these commands, make sure to pull the weights using the following commands:
+Before running the commands to reproduce our results, make sure to download the model weights using the following commands:
 
 ```bash
 sudo apt-get install git-lfs
