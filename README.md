@@ -27,6 +27,11 @@ The image below illustrates the two main phases of our workflow:
 
 ## 🔍 Detailed Steps with Explanations and Code
 
+Before executing any command, you should install the requirements using the following command:
+
+```bash
+pip install -r requirements.txt
+```
 ### 📂 1️⃣ Corpora Preparation
 
 The image above illustrates the complete process of collecting our corpora used for further pretraining of **BERT** and **AgriBERT** models.
