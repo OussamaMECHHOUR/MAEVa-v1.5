@@ -237,7 +237,7 @@ python "scripts/matching_variables/our_pretrained_AgriBERT.py" \
 
 If you have any questions, encounter issues with the code, or would like to know more about our work, please contact the corresponding author:  
 📧 [oussama.mechhour.cirad@gmail.com](mailto:oussama.mechhour.cirad@gmail.com)
-[LinkedIn](https://www.linkedin.com/in/oussama-mechhour-ph-d-student-31a94323a/)
+ [LinkedIn](https://www.linkedin.com/in/oussama-mechhour-ph-d-student-31a94323a/)
 
 
 
