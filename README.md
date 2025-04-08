@@ -81,7 +81,7 @@ python "scripts/corpora preparation/europe_pmc_api.py" \
 
 After collecting the PDF articles, we used [**GROBID**](https://github.com/kermitt2/grobid) (GeneRation Of BIbliographic Data) to extract, parse, and restructure the raw PDFs into **XML/TEI-encoded** documents. These structured files segment the content into meaningful sections (e.g., introduction, methods, conclusion), facilitating further preprocessing.
 
-To ensure clean and unbiased content, we removed:
+To ensure clean and unbiased content, we removed the following (non-exhaustive list):
 - Author affiliations  
 - Corresponding author details  
 - Page numbers  
