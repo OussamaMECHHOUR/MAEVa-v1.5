@@ -94,7 +94,7 @@ def evaluate_similarity(args):
         "Validation Type": ["Top 1", "Top 3", "Top 5", "Top 10"],
         "Correct Matches": [top_1_correct, top_3_correct, top_5_correct, top_10_correct],
         "Total Phrases": [total] * 4,
-        "CMP (%)": [
+        "P@ (%)": [
             100 * top_1_correct / total,
             100 * top_3_correct / total,
             100 * top_5_correct / total,
