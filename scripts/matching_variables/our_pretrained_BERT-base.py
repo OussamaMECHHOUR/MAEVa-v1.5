@@ -10,7 +10,7 @@ from transformers import BertTokenizer, BertForMaskedLM
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print(f"Using device: {device}")
 
-# === Embedding extraction ===
+
 def get_sentence_embedding(sentence, tokenizer, model):
     inputs = tokenizer(
         sentence, max_length=512, truncation=True, padding="max_length", return_tensors="pt"
@@ -94,7 +94,7 @@ def evaluate_similarity(args):
         "Validation Type": ["Top 1", "Top 3", "Top 5", "Top 10"],
         "Correct Matches": [top_1_correct, top_3_correct, top_5_correct, top_10_correct],
         "Total Phrases": [total] * 4,
-        "CMP (%)": [
+        "P@ (%)": [
             100 * top_1_correct / total,
             100 * top_3_correct / total,
             100 * top_5_correct / total,
