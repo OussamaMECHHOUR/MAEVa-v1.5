@@ -132,7 +132,7 @@ Both models were pretrained for **20 epochs** with:
 
 #### ⚙️ How to Run the further pretraining Code
 
-You can use our script to further pretrain PLMs on the MLM task on **any corpus**. By default, it uses the `agriculture-bert-uncased` checkpoint and the **Corpus (PMC)**.
+You can use our script to further pretrain PLMs on the MLM task on **any corpus**. By default, it uses the [`agriculture-bert-uncased`](https://huggingface.co/recobo/agriculture-bert-uncased) checkpoint and the **Corpus (PMC)**.
 
 To download the model weights, make sure you're logged into your HuggingFace account. You can log in using the following command:
 
