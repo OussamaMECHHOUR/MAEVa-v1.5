@@ -242,7 +242,7 @@ If you have any questions, encounter issues with the code, or would like to know
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-mechhour-ph-d-student-31a94323a/)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1825--0097-a6ce39?logo=orcid&logoColor=white)](https://orcid.org/0009-0004-3007-1229)
-[![HAL](https://img.shields.io/badge/HAL-Archive-orange?logo=data&logoColor=white)](https://hal.science/search/index/?q=oussama+mechhour)
+[![HAL](https://img.shields.io/badge/HAL-Archive-orange?logo=data&logoColor=white)](https://hal.science/search/index/?q=oussama+mechhour) 
 
 
 
