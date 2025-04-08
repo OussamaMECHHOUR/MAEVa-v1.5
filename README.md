@@ -119,8 +119,8 @@ python "scripts/corpora preparation/GROBID.py" \
 
 We further pretrained two language models on our agroecological corpora using the **Masked Language Modeling (MLM)** task:
 
-- [`bert-base-uncased`](https://huggingface.co/google-bert/bert-base-uncased) — the original BERT base model from Hugging Face.
-- [`agriculture-bert-uncased`](https://huggingface.co/recobo/agriculture-bert-uncased) — an agricultural-domain pretrained BERT model.
+- [`bert-base-uncased`](https://huggingface.co/google-bert/bert-base-uncased) 
+- [`agriculture-bert-uncased`](https://huggingface.co/recobo/agriculture-bert-uncased)
 
 Both models were pretrained for **20 epochs** with:
 - Batch size: **64**
